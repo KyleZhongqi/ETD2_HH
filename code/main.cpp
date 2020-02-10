@@ -12,7 +12,7 @@
 #include "Initialization.h"
 #include "Find_cubic_hermite_root.h"
 #include "Runge_Kutta2.h"
-#include "ETDRK.h"
+#include "ETD.h"
 #include "Run_model.h"
 #include "Largest_Lyapunov.h"
 #include "Delete.h"
