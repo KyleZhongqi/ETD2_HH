@@ -11,8 +11,8 @@ The detailed method can be found in [reference](https://github.com/KyleZhongqi/E
 Functions:
 =========
 
-* Set the parameters in `gen_HH_ETD2.m`
-* Run the code in `Run_ETD2.m`
+* Set the parameters and run the code in `Run_ETD2.m`
+
 # Usage example
 ```
 % ETD2_HH usage eaxmple.
