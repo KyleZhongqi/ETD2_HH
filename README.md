@@ -6,7 +6,7 @@ We introdce three second-order numerical methods, Runge-Kutta (RK), exponentiona
 The RK2 method should use a small time step on the order of 0.02 ms to satisfy the requirement of stability and is offerred as a banchmark.
 The ETD2 method can use a large time step to improve the numerical efficiency, but it is less accurate than the RK2 method.
 The AETD2 method combines the advantages of the RK2 and ETD2 methods that it can use a large time step (maximum 0.27 ms) to evolve the HH network while achieving comparable high accuracy as the RK2 method using a small time step. 
-The detailed method can be found in reference. 
+The detailed method can be found in [reference](https://github.com/KyleZhongqi/ETD2_HH#references). 
 
 # lalalal
 thank `you`
