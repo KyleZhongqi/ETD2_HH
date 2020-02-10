@@ -1,4 +1,6 @@
-# ETD2_HH
+ETD2_HH
+======
+
 This code is for evolving pulse-coupled Hodgkin-Huxley (HH) neuronal network. 
 We introdce three second-order numerical methods, Runge-Kutta (RK), exponentional time differencing (ETD2), and adaptive ETD (AETD2) methods. 
 The RK2 method should use a small time step on the order of 0.02 ms to satisfy the requirement of stability and is offerred as a banchmark.
@@ -7,12 +9,13 @@ The AETD2 method combines the advantages of the RK2 and ETD2 methods that it can
 The detailed method can be found in reference. 
 
 # lalalal
-#good 
+thank 'you'
 
 
 
 
-# References
+References 
+============
 Tian ZQK, Zhou D. Exponential time differencing algorithm for pulse-coupled hodgkin-huxley neuronal networks. arXiv preprint arXiv:1910.08724 (2019). 
 
 Börgers C, Nectow AR. Exponential time differencing for hodgkin–huxley-like odes. SIAM Journal on 
