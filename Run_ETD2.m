@@ -1,5 +1,4 @@
-addpath('D:\code\HW_HH\ETD2\');    %path for this Run_HH_model.m file
-addpath('D:\work\Library_HH\HW_HH\ETD2\');    %path for this Run_HH_model.m file
+addpath('~/ETD2/');    %path for this Run_HH_model.m file
 
 pm=[];                % a new parameter set;
 pm.method = 2;        % methods,0--RK2, 1--ETD2, 2--AETD2
