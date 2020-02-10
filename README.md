@@ -14,7 +14,7 @@ Functions:
 * Set the parameters in `gen_HH_ETD2.m`
 * Run the code in `Run_ETD2.m`
 # Usage example
-`
+```
 % ETD2_HH usage eaxmple.
 % Addpath like
 addpath('~/ETD2/');    %path for this Run_HH_model.m file
@@ -48,7 +48,7 @@ pm.record_Voltage = 0;% default: 0. Record the voltages
 % CM coupling strength matrix
 % CM_ij: coupling strength from j-th neuorn to i-th neuron 
 
-`
+```
 
 References 
 ============
