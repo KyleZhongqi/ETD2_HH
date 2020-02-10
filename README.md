@@ -9,23 +9,23 @@ The AETD2 method combines the advantages of the RK2 and ETD2 methods that it can
 The detailed method can be found in reference. 
 
 # lalalal
-thank 'you'
+thank `you`
 
 
 
 
 References 
 ============
-Tian ZQK, Zhou D. Exponential time differencing algorithm for pulse-coupled hodgkin-huxley neuronal networks. arXiv preprint arXiv:1910.08724 (2019). 
+* Tian ZQK, Zhou D. Exponential time differencing algorithm for pulse-coupled hodgkin-huxley neuronal networks. arXiv preprint arXiv:1910.08724 (2019). 
 
-Börgers C, Nectow AR. Exponential time differencing for hodgkin–huxley-like odes. SIAM Journal on 
+* Börgers C, Nectow AR. Exponential time differencing for hodgkin–huxley-like odes. SIAM Journal on 
 Scientific Computing 35 (2013) B623–B643. 
 
-CoxSM,MatthewsPC. Exponentialtimedifferencingforstiffsystems. JournalofComputationalPhysics(2002) 430–455. 
+* CoxSM,MatthewsPC. Exponentialtimedifferencingforstiffsystems. JournalofComputationalPhysics(2002) 430–455. 
 
-Hansel D, Mato G, Meunier C, Neltner L. On numerical simulations of integrate-and-fire neural networks. 
+* Hansel D, Mato G, Meunier C, Neltner L. On numerical simulations of integrate-and-fire neural networks. 
 Neural Computation 10 (1998) 467–483. 
 
-Shelley MJ, Tao L. Efficient and accurate time-stepping schemes for integrate-and-fire neuronal networks. 
+* Shelley MJ, Tao L. Efficient and accurate time-stepping schemes for integrate-and-fire neuronal networks. 
 Journal of Computational Neuroscience 11 (2001) 111–119. 
 
